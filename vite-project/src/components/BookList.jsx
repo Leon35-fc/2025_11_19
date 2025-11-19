@@ -2,7 +2,7 @@ import SingleBook from "./SingleBook";
 
 function BookList (props){
 
-    console.log(props.bookList);
+    console.log(props.bookList)
     
     
  return(    
